@@ -1,2 +1,2 @@
-# DIce_App
+# Dice_App
  Basic Dice App
