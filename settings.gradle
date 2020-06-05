@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "DiceApp"
+rootProject.name = "DiceappV2.0"
