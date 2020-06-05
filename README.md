@@ -1,2 +1,5 @@
 # DIce_App
- Basic Dice App
+ Dice App Version 2.0
+ + 2 dice added
+ + Button added
+
